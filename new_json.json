@@ -1,0 +1,773 @@
+{
+    "1.jpeg45602": {
+        "filename": "1.jpeg",
+        "size": 45602,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 323,
+                    "y": 36,
+                    "width": 320,
+                    "height": 479
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "2.jpeg4669": {
+        "filename": "2.jpeg",
+        "size": 4669,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 0,
+                    "y": 47,
+                    "width": 160,
+                    "height": 112
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 163,
+                    "y": 68,
+                    "width": 97,
+                    "height": 80
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "3.jpeg6828": {
+        "filename": "3.jpeg",
+        "size": 6828,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 1,
+                    "width": 191,
+                    "height": 151
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "4.jpeg198685": {
+        "filename": "4.jpeg",
+        "size": 198685,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 379,
+                    "width": 823,
+                    "height": 1356
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "5.jpeg54509": {
+        "filename": "5.jpeg",
+        "size": 54509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 86,
+                    "width": 770,
+                    "height": 705
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "6.jpeg60092": {
+        "filename": "6.jpeg",
+        "size": 60092,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 48,
+                    "width": 168,
+                    "height": 226
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 252,
+                    "y": 137,
+                    "width": 235,
+                    "height": 142
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "7.jpeg394361": {
+        "filename": "7.jpeg",
+        "size": 394361,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 245,
+                    "width": 608,
+                    "height": 212
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 586,
+                    "y": 169,
+                    "width": 301,
+                    "height": 277
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_1.jpeg316074": {
+        "filename": "aug0_1.jpeg",
+        "size": 316074,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 233,
+                    "y": 70,
+                    "width": 839,
+                    "height": 943
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_1.jpeg293107": {
+        "filename": "aug1_1.jpeg",
+        "size": 293107,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 688,
+                    "y": 61,
+                    "width": 1117,
+                    "height": 1019
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_2.jpeg225320": {
+        "filename": "aug0_2.jpeg",
+        "size": 225320,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 0,
+                    "y": 0,
+                    "width": 1188,
+                    "height": 967
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1029,
+                    "y": 461,
+                    "width": 788,
+                    "height": 619
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_2.jpeg190718": {
+        "filename": "aug1_2.jpeg",
+        "size": 190718,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 685,
+                    "y": 0,
+                    "width": 1235,
+                    "height": 959
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 167,
+                    "y": 520,
+                    "width": 825,
+                    "height": 560
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_3.jpeg242387": {
+        "filename": "aug0_3.jpeg",
+        "size": 242387,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 0,
+                    "width": 1543,
+                    "height": 1080
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_3.jpeg236440": {
+        "filename": "aug1_3.jpeg",
+        "size": 236440,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 327,
+                    "y": 0,
+                    "width": 1533,
+                    "height": 1080
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_4.jpeg320400": {
+        "filename": "aug0_4.jpeg",
+        "size": 320400,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 111,
+                    "width": 1684,
+                    "height": 969
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_4.jpeg388784": {
+        "filename": "aug1_4.jpeg",
+        "size": 388784,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 32,
+                    "width": 1747,
+                    "height": 1048
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_5.jpeg242948": {
+        "filename": "aug0_5.jpeg",
+        "size": 242948,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1080
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_5.jpeg292726": {
+        "filename": "aug1_5.jpeg",
+        "size": 292726,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 112,
+                    "width": 1848,
+                    "height": 923
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_6.jpeg245793": {
+        "filename": "aug0_6.jpeg",
+        "size": 245793,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 261,
+                    "y": 64,
+                    "width": 728,
+                    "height": 802
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 901,
+                    "y": 436,
+                    "width": 941,
+                    "height": 571
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_6.jpeg239833": {
+        "filename": "aug1_6.jpeg",
+        "size": 239833,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 984,
+                    "y": 152,
+                    "width": 634,
+                    "height": 720
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 436,
+                    "width": 887,
+                    "height": 452
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug0_7.jpeg241238": {
+        "filename": "aug0_7.jpeg",
+        "size": 241238,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 0,
+                    "width": 1183,
+                    "height": 920
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 945,
+                    "y": 439,
+                    "width": 760,
+                    "height": 641
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "aug1_7.jpeg235039": {
+        "filename": "aug1_7.jpeg",
+        "size": 235039,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 585,
+                    "y": 313,
+                    "width": 1163,
+                    "height": 767
+                },
+                "region_attributes": {
+                    "name": "cat",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 204,
+                    "y": 0,
+                    "width": 765,
+                    "height": 656
+                },
+                "region_attributes": {
+                    "name": "dog",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}
